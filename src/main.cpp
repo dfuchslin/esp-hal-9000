@@ -1,5 +1,3 @@
-// cool breathing: https://thingpulse.com/breathing-leds-cracking-the-algorithm-behind-our-breathing-pattern/
-
 #include <Arduino.h>
 #include <math.h>
 

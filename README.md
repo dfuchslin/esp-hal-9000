@@ -1,15 +1,5 @@
-#ttgo t-display
+# esp-hal-9000
 
-Board info:
-http://www.lilygo.cn/prod_view.aspx?TypeId=50044&Id=1126&FId=t3:50044:3
-https://github.com/Xinyuan-LilyGO/TTGO-T-Display
+SVG: https://upload.wikimedia.org/wikipedia/commons/2/2e/Hal_9000_Panel.svg
 
-Libraries:
-https://github.com/Bodmer/TFT_eSPI
-https://github.com/sparkfun/SparkFun_SCD30_Arduino_Library
-
-# scd30 sensor
-Black - gnd
-red - 3v3
-yellow - scl
-blue - sca
+Cool breathing LED algorithm: https://thingpulse.com/breathing-leds-cracking-the-algorithm-behind-our-breathing-pattern/
